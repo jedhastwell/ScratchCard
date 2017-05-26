@@ -1,0 +1,12 @@
+{
+  "app": {
+    "width"  : 480,
+    "height" : 300,
+    "sharedLoader": true
+  },
+  "assets": {
+    "cover": "images/cover.png",
+    "background": "images/cardbg.jpg",
+    "scratchParticles": "images/scratch.png"
+  }
+}
