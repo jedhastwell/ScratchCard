@@ -20,7 +20,6 @@ for(var key in config.assets) {
 }
 
 loader.load(() => {
-  console.log('done loading');
   // Set the game running with a new instance of our game scene.
   app.stage = new GameScene();
 });
